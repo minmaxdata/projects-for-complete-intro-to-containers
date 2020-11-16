@@ -1,5 +1,5 @@
 {
-  "name": "more-complicated-nodejs-app",
+  "name": "xnetworking",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@hapi/hapi": "^18.4.1",
-    "hapi-pino": "^6.5.0"
+    "@hapi/hapi": "^20.0.2",
+    "hapi-pino": "^8.3.0",
+    "mongodb": "3.3"
   }
 }
